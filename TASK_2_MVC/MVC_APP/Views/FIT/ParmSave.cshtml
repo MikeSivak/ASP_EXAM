@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "PARMSAVE";
+}
+
+@{ 
+    Int32.TryParse(Request.Form["x"], out int x);
+    string s = Request.Form["s"];
+    DateTime d = Convert.ToDateTime(Request.Form["d"]);
+    string press = Request.Form["press"];
+}
+
+<h2>ParmSave</h2>
+
+<h2>Parms: x = @x | s = @s | d = @d </h2>
+
+<a href="/FIT/Index">Index</a>

@@ -1,0 +1,10 @@
+E:\Study\3_course\2_Semester\ASP.Net\ASP-Exam_tasks\TASK_3_ASMX\Client\bin\Debug\Client.exe.config
+E:\Study\3_course\2_Semester\ASP.Net\ASP-Exam_tasks\TASK_3_ASMX\Client\bin\Debug\Client.exe
+E:\Study\3_course\2_Semester\ASP.Net\ASP-Exam_tasks\TASK_3_ASMX\Client\bin\Debug\Client.pdb
+E:\Study\3_course\2_Semester\ASP.Net\ASP-Exam_tasks\TASK_3_ASMX\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Study\3_course\2_Semester\ASP.Net\ASP-Exam_tasks\TASK_3_ASMX\Client\obj\Debug\Client.Form1.resources
+E:\Study\3_course\2_Semester\ASP.Net\ASP-Exam_tasks\TASK_3_ASMX\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Study\3_course\2_Semester\ASP.Net\ASP-Exam_tasks\TASK_3_ASMX\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Study\3_course\2_Semester\ASP.Net\ASP-Exam_tasks\TASK_3_ASMX\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Study\3_course\2_Semester\ASP.Net\ASP-Exam_tasks\TASK_3_ASMX\Client\obj\Debug\Client.exe
+E:\Study\3_course\2_Semester\ASP.Net\ASP-Exam_tasks\TASK_3_ASMX\Client\obj\Debug\Client.pdb
