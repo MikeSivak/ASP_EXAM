@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "ParmSave";
+}
+
+@{
+    Int32.TryParse(Context.Request.Form["x"], out int x);
+    string s = Context.Request.Form["s"];
+    DateTime d = Convert.ToDateTime(Context.Request.Form["d"]);
+    string press = Context.Request.Form["press"];
+}
+
+<h1>ParmSave</h1>
+<h2>Parms: x = @x | s = @s | d = @d </h2>
+
+<a href="/Index">Index</a>

@@ -1,0 +1,9 @@
+﻿@{
+    ViewData["Title"] = "Search";
+}
+
+<h1>Search</h1>
+
+@*<h2>Parms: s = @(ViewContext.RouteData.Values["s"])</h2>*@
+<h2>Parms: s = @(Context.Request.Query["s"])</h2>
+<a href="/Index">Index</a>

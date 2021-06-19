@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "GetParm";
+}
+
+<h1>GetParm</h1>
+<form>
+    <input type="text" name="x" placeholder="Enter number" />
+    <input type="text" name="s" placeholder="Enter string" />
+    <input type="date" name="d" />
+    <input type="text" name="press" placeholder="Enter string" />
+    <br />
+    <input type="submit" formmethod="post" formaction="/ParmSave" value="OK" /><input type="submit" formmethod="get" formaction="/Index" value="Cancel" />
+</form>
+
+<a href="/Index">Index</a>
